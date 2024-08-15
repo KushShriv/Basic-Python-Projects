@@ -1,2 +1,2 @@
-# Learning Python
-## By making projects with the help of `FreeCodeCamp` 
+# Python Projects
+Projects made using only Python and no other language (for the most part)
